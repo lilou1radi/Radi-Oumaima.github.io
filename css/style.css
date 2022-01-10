@@ -514,6 +514,9 @@ header .navbar a:hover{
 .wrapper .button:nth-child(3):hover .icon{
   background: rgb(68, 86, 185);
 }
+.wrapper .button:nth-child(4):hover .icon{
+  background: rgb(207, 66, 48);
+}
 
 .wrapper .button .icon i{
   font-size: 25px;
@@ -540,7 +543,9 @@ header .navbar a:hover{
 .wrapper .button:nth-child(3) span{
   color: rgb(68, 86, 185);
 }
-
+.wrapper .button:nth-child(4) span{
+ color: rgb(207, 66, 48);
+}
 
 
 /* ecucation style */
